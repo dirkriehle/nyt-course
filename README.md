@@ -2,6 +2,6 @@
 
 Students learn how to perform scientific research for their final thesis or dissertation research.
 
-Slides are here at https://github.com/dirkriehle/nyt-course/
+A course overview can be found at https://uni1.de/courses/nailing-your-thesis/
 
-The course schedule is at https://nyt.uni1.de
+Slides are here at https://github.com/dirkriehle/nyt-course/
